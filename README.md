@@ -23,4 +23,4 @@ I'm profesional web Developer having 3+ years of experience!
 
 keep in mind that it is not in order of importance!
 
-- [blogautoadministrable](https://github.com/JimmyTzuc/blogautoadministrable) - Full stack blog sistem & API GraphQL made with Laravel, Jetstream & Ligthouse
+- [blogautoadministrable](https://github.com/JimmyTzuc/blogautoadministrable) - Full stack blog sistem & API GraphQL made with Laravel, Jetstream & Ligthouse - you can visit on [blog.codemid.mx](http://blog.codemid.mx/) & the graphql playgroun on [blog.codemid.mx/graphql-playground](http://blog.codemid.mx/graphql-playground)
