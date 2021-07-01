@@ -13,11 +13,10 @@ My name is Jimmy :smiley:, I'm from México and I'm a Web Development.
 * Python coding
 * Special skills and experience in GraphQL APIs.
 
-|Languaje Programming                          |Framework
-|
-|----------------|-------------------------------|-----------------------------|
-|`Python`         |Django   |
-|`PHP`            |Laravel  |
+| Languaje Programming | Framework |
+| ------ | ------ |
+| `Python` | Django |
+| `PHP` | Laravel|
 
 
 ## Contact
