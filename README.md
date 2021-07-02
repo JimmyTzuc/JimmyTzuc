@@ -27,4 +27,6 @@ keep in mind that it is not in order of importance!
 
 - [blogrest](https://github.com/JimmyTzuc/blogrest) - API REST on Laravel with tokenauth & roles
 
+- [portfoliodjango](https://github.com/JimmyTzuc/portfoliodjango) - App full stack with django, Personal Portfolio.
+
 - [djangorest](https://github.com/JimmyTzuc/djangorest) - API REST with django & django rest framework
