@@ -42,5 +42,4 @@ keep in mind that it is not in order of importance!
 <a href="https://github.com/JimmyTzuc/JimmyTzuc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyTzuc&langs_count=3&title_color=FF8E43&text_color=DFDFDF&bg_color=1E1E1E" alt="JimmyTzuc GitHub Stats" />
 </a>
-
 </div>
