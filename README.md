@@ -30,3 +30,17 @@ keep in mind that it is not in order of importance!
 - [portfoliodjango](https://github.com/JimmyTzuc/portfoliodjango) - App full stack with django, Personal Portfolio.
 
 - [djangorest](https://github.com/JimmyTzuc/djangorest) - API REST with django & django rest framework
+
+
+<div align="center">
+
+## :chart_with_upwards_trend: Github Stats :rocket:
+
+<a href="https://github.com/J4ckDev/J4ckDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JimmyTzuc&show_icons=true&line_height=27&count_private=true&title_color=FF8E43&text_color=DFDFDF&icon_color=5EC3FF&bg_color=1E1E1E" alt="JimmyTzuc Top programming languages"/>
+</a>
+<a href="https://github.com/JimmyTzuc/JimmyTzuc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyTzuc&langs_count=3&title_color=FF8E43&text_color=DFDFDF&bg_color=1E1E1E" alt="JimmyTzuc GitHub Stats" />
+</a>
+
+</div>
