@@ -26,3 +26,5 @@ keep in mind that it is not in order of importance!
 - [blogautoadministrable](https://github.com/JimmyTzuc/blogautoadministrable) - Full stack blog sistem & API GraphQL made with Laravel, Jetstream & Ligthouse - you can visit on [blog.codemid.mx](http://blog.codemid.mx/) & the graphql playground on [blog.codemid.mx/graphql-playground](http://blog.codemid.mx/graphql-playground)
 
 - [blogrest](https://github.com/JimmyTzuc/blogrest) - API REST on Laravel with tokenauth & roles
+
+- [djangorest](https://github.com/JimmyTzuc/djangorest) - API REST with django & django rest framework
