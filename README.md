@@ -23,7 +23,7 @@ I'm profesional web Developer having 3+ years of experience!
 
 keep in mind that it is not in order of importance!
 
-- [blogautoadministrable](https://github.com/JimmyTzuc/blogautoadministrable) - Full stack blog sistem & API GraphQL made with Laravel, Jetstream & Ligthouse - you can visit on [blog.codemid.mx](http://blog.codemid.mx/) & the graphql playground on [blog.codemid.mx/graphql-playground](http://blog.codemid.mx/graphql-playground)
+- [API POSTAL CODES](https://github.com/JimmyTzuc/blogautoadministrable) - Api GraphQl consulting postal codes in Yucatán with Laravel, Jetstream & Ligthouse - you can visit on [apigeo.jimmytzuc.com](http://apigeo.jimmytzuc.com/) & the graphql playground on [apigeo.jimmytzuc.com/graphql-playground](http://apigeo.jimmytzuc.com/graphql-playground)
 
 - [blogrest](https://github.com/JimmyTzuc/blogrest) - API REST on Laravel with tokenauth & roles
 
