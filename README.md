@@ -1,4 +1,4 @@
-[![Jimmy Tzuc](https://jimmytzuc.com/assets/img/favicon.png)](https://jimmytzuc.com )
+[![Jimmy Tzuc](https://jimmytzuc.com/assets/img/favicon.ico)](https://jimmytzuc.com )
 =============
 My name is Jimmy 😃 , I'm from México and I'm a Web Development.
 
