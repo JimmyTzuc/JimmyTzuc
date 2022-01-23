@@ -5,7 +5,6 @@ My name is Jimmy 😃 , I'm from México and I'm a Web Development.
 I'm profesional web Developer having 3+ years of experience!
   
 * Currently working for [Delta Gas](https://deltagas.com.mx/) as a Backend Dev.
-* Also I have a company called [CodeMid](https://github.com/codemid-mx)
 * You can visit my website [here](https://jimmytzuc.com/) & find all of my socials and resume.
 
 ## Skills
