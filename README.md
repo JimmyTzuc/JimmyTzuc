@@ -4,7 +4,7 @@ My name is Jimmy 😃 , I'm from México and I'm a Web Development.
 
 I'm profesional web Developer having 3+ years of experience!
   
-* Currently working for [Hiumanlab](https://hiumanlab.com/) as a Backend Dev.
+* Currently working for [Jüsto](https://justo.mx/) as a Humble Backend Dev.
 * You can visit my website [here](https://jimmytzuc.com/) & find all of my socials and resume.
 
 ## Skills
