@@ -1,27 +1,30 @@
+# Jimmy Tzuc - Web Developer
+
 [![Jimmy Tzuc](https://jimmytzuc.com/assets/img/favicon.ico)](https://jimmytzuc.com )
 =============
-My name is Jimmy 😃 , I'm from México and I'm a Web Development.
 
-I'm profesional web Developer having 4+ years of experience!
+## About Me
+Hi, my name is Jimmy 😃. 
+I'm from Mexico and I'm a web developer. 
+I have over 4 years of experience as a professional web developer.
   
-* Currently working for [Jüsto](https://justo.mx/) as a Humble Backend Dev.
-* You can visit my website [here](https://jimmytzuc.com/) & find all of my socials and resume.
-* I'm a contributor in [python-docs-es](https://github.com/python/python-docs-es)
+* Currently, I work at [Jüsto](https://justo.mx/) as a Humble Backend Dev.
+* You can visit my website [here](https://jimmytzuc.com/), where you'll find my social media profiles and resume.
+* I'm also a contributor to the [python-docs-es](https://github.com/python/python-docs-es) project.
 
 ## Skills
-
 * Critical thinking, decision-making and problem solving skills
 * Python coding
 * Special skills and experience in GraphQL APIs.
 
-| Languaje Programming | Framework |
+| Programming Languaje | Framework |
 | ------ | ------ |
 | `Python` | Django |
 | `PHP` | Laravel|
 
 ## My top repositories
 
-keep in mind that it is not in order of importance!
+Here are some of my top repositories. Please note that they are not listed in order of importance!
 
 - [API POSTAL CODES](https://github.com/JimmyTzuc/apicp) - Api GraphQl consulting postal codes in Yucatán with Laravel, Jetstream & Ligthouse - you can visit the documentation on [apigeo.jimmytzuc.com](http://apigeo.jimmytzuc.com/) & the graphql playground on [apigeo.jimmytzuc.com/graphql-playground](http://apigeo.jimmytzuc.com/graphql-playground)
 
@@ -31,15 +34,9 @@ keep in mind that it is not in order of importance!
 
 - [djangorest](https://github.com/JimmyTzuc/djangorest) - API REST with django & django rest framework
 
+## GitHub Stats
+Here are my GitHub statistics!
 
-<div align="center">
+![JimmyTzuc Top programming languages](https://github-readme-stats.vercel.app/api?username=JimmyTzuc&show_icons=true&line_height=27&count_private=true&title_color=FF8E43&text_color=DFDFDF&icon_color=5EC3FF&bg_color=1E1E1E)
 
-## :chart_with_upwards_trend: Github Stats :rocket:
-
-<a href="https://github.com/J4ckDev/J4ckDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JimmyTzuc&show_icons=true&line_height=27&count_private=true&title_color=FF8E43&text_color=DFDFDF&icon_color=5EC3FF&bg_color=1E1E1E" alt="JimmyTzuc Top programming languages"/>
-</a>
-<a href="https://github.com/JimmyTzuc/JimmyTzuc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyTzuc&langs_count=3&title_color=FF8E43&text_color=DFDFDF&bg_color=1E1E1E" alt="JimmyTzuc GitHub Stats" />
-</a>
-</div>
+![JimmyTzuc GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyTzuc&langs_count=3&title_color=FF8E43&text_color=DFDFDF&bg_color=1E1E1E)
