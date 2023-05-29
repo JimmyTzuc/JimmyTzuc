@@ -4,8 +4,8 @@
 =============
 
 ## About Me
-Hi, my name is Jimmy 😃.
-I'm from Mexico and I'm a web developer. 
+Hi, my name is Jimmy 😃.  
+I'm from Mexico and I'm a web developer.  
 I have over 4 years of experience as a professional web developer.
   
 * Currently, I work at [Jüsto](https://justo.mx/) as a Humble Backend Dev.
