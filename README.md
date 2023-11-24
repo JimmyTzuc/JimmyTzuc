@@ -8,7 +8,7 @@ Hi, my name is Jimmy 😃.
 I'm from Mexico, specifically from the state of Yucatán, and I'm proud to be a native Maya speaker.  
 I'm a web developer with 4+ years of experience
   
-* Currently, I work at [Jüsto](https://justo.mx/) as a Humble Backend Dev.
+
 * You can visit my website [here](https://jimmytzuc.com/), where you'll find my social media profiles and resume.
 * I'm also a contributor to the [python-docs-es](https://github.com/python/python-docs-es) project.
 
