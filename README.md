@@ -21,6 +21,8 @@ I'm a web developer with 4+ years of experience
 | ------ | ------ |
 | `Python` | Django |
 | `PHP` | Laravel|
+| `JS` | Node|
+
 
 ## My top repositories
 
