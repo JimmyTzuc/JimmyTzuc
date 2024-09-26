@@ -14,7 +14,7 @@ I'm a web developer with 4+ years of experience
 
 ## Skills
 * Critical thinking, decision-making and problem solving skills
-* Python coding
+* Backend coding
 * Special skills and experience in GraphQL APIs.
 
 | Programming Languaje | Framework |
